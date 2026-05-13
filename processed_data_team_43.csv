@@ -1,0 +1,481 @@
+post_id,bill_of_sale_available,mortgage_available,repair_available,products_label,price,location,room_count,area,floor_number,total_floors,region,added_time
+4788554,False,False,True,default,110000,Masazır q.,3,77.0,5,12,Bakı,2024-12-14 02:43:00
+4807546,False,False,True,Agentlik,189000,Nəriman Nərimanov m.,2,56.0,12,17,Bakı,2024-12-14 02:37:00
+4817283,True,False,True,default,170000,Nərimanov r.,3,70.0,4,5,Bakı,2024-12-14 02:21:00
+4632061,False,False,True,Agentlik,170000,Nərimanov r.,2,56.0,6,16,Bakı,2024-12-14 02:16:00
+4589465,True,True,True,default,295000,Nərimanov r.,4,110.0,7,9,Bakı,2024-12-14 02:07:00
+4498546,False,False,True,default,159000,Biləcəri q.,2,68.5,5,17,Bakı,2024-12-14 02:04:00
+4828790,True,False,True,default,94999,Saray q.,2,91.0,12,14,Bakı,2024-12-14 01:50:00
+4603064,True,False,True,Agentlik,236999,Əhmədli m.,3,110.0,9,16,Bakı,2024-12-14 01:41:00
+4791003,True,False,True,Agentlik,210000,Qara Qarayev m.,3,90.0,13,17,Bakı,2024-12-14 01:41:00
+4724892,True,False,False,default,168000,Şah İsmayıl Xətai m.,1,61.0,9,16,Bakı,2024-12-14 01:40:00
+4826193,False,False,True,default,145000,Abşeron r.,3,100.0,2,10,Bakı,2024-12-14 01:40:00
+4599121,False,False,False,default,320000,Şah İsmayıl Xətai m.,3,137.0,19,21,Bakı,2024-12-14 01:39:00
+4724836,False,False,True,default,215000,Şah İsmayıl Xətai m.,2,65.0,12,20,Bakı,2024-12-14 01:39:00
+4781797,True,True,True,default,220000,Şah İsmayıl Xətai m.,2,85.0,10,16,Bakı,2024-12-14 01:38:00
+4359572,False,False,False,default,150000,Şah İsmayıl Xətai m.,2,53.0,12,20,Bakı,2024-12-14 01:38:00
+4724752,True,False,False,default,210000,Şah İsmayıl Xətai m.,3,80.0,15,15,Bakı,2024-12-14 01:37:00
+4732398,True,True,True,default,215000,Gənclik m.,3,85.0,4,9,Bakı,2024-12-14 01:37:00
+3656354,False,False,False,default,225000,Şah İsmayıl Xətai m.,2,93.0,14,20,Bakı,2024-12-14 01:36:00
+4724671,True,False,False,default,190000,Şah İsmayıl Xətai m.,2,70.0,15,15,Bakı,2024-12-14 01:36:00
+4279501,True,True,False,default,210000,Şah İsmayıl Xətai m.,3,85.0,8,16,Bakı,2024-12-14 01:35:00
+4833659,False,False,True,Agentlik,173500,Nəriman Nərimanov m.,2,67.0,14,17,Bakı,2024-12-14 01:36:00
+4544106,True,True,True,default,270000,Şah İsmayıl Xətai m.,3,125.0,19,20,Bakı,2024-12-14 01:34:00
+4580955,True,True,True,default,237000,Şah İsmayıl Xətai m.,2,120.0,5,16,Bakı,2024-12-14 01:34:00
+4408769,True,True,True,default,305000,Şah İsmayıl Xətai m.,4,110.0,5,16,Bakı,2024-12-14 01:33:00
+4828265,True,True,True,default,165000,Şah İsmayıl Xətai m.,2,60.0,8,16,Bakı,2024-12-14 01:32:00
+4830482,True,True,False,default,220000,Şah İsmayıl Xətai m.,2,75.0,12,16,Bakı,2024-12-14 01:31:00
+4259175,True,True,False,default,320000,Şah İsmayıl Xətai m.,3,120.0,11,16,Bakı,2024-12-14 01:29:00
+4828545,False,False,True,default,300000,İnşaatçılar m.,4,176.0,7,19,Bakı,2024-12-14 01:29:00
+4816627,True,True,True,default,140000,Əhmədli m.,2,58.0,2,6,Bakı,2024-12-14 01:19:00
+4769221,False,False,False,Agentlik,285000,Şah İsmayıl Xətai m.,2,91.0,5,20,Bakı,2024-12-14 01:14:00
+4757240,True,True,True,default,499400,Elmlər Akademiyası m.,4,175.0,10,15,Bakı,2024-12-14 01:12:00
+4831338,True,True,True,default,410000,Şah İsmayıl Xətai m.,3,142.0,12,16,Bakı,2024-12-14 01:09:00
+4575149,True,True,True,Agentlik,133000,Həzi Aslanov m.,3,60.0,2,9,Bakı,2024-12-14 01:08:00
+3296506,True,False,True,Agentlik,325000,Nərimanov r.,4,180.0,2,16,Bakı,2024-12-14 01:07:00
+4487059,True,False,True,Agentlik,410000,Nərimanov r.,4,212.0,8,14,Bakı,2024-12-14 01:07:00
+4741616,True,True,True,Agentlik,268000,Həzi Aslanov m.,3,126.0,8,17,Bakı,2024-12-14 01:07:00
+3851828,True,False,True,Agentlik,285000,Xalqlar Dostluğu m.,3,140.0,6,16,Bakı,2024-12-14 01:07:00
+3605603,True,False,True,Agentlik,338000,Nəriman Nərimanov m.,4,183.0,5,16,Bakı,2024-12-14 01:06:00
+3326648,True,False,True,Agentlik,315000,Nərimanov r.,4,170.0,17,17,Bakı,2024-12-14 01:06:00
+4048373,True,False,True,Agentlik,283000,Gənclik m.,4,142.0,1,10,Bakı,2024-12-14 01:06:00
+3153010,True,False,True,Agentlik,297000,Nizami m.,3,148.0,13,16,Bakı,2024-12-14 01:06:00
+1249996,True,False,False,Agentlik,325000,Nərimanov r.,3,140.0,6,7,Bakı,2024-12-14 01:06:00
+3264951,True,False,True,Agentlik,255000,Binəqədi r.,3,133.0,7,16,Bakı,2024-12-14 01:05:00
+4744299,False,False,True,default,165000,Neftçilər m.,2,67.0,9,18,Bakı,2024-12-14 01:05:00
+4514160,True,False,True,Agentlik,340000,Nəsimi r.,3,146.0,8,16,Bakı,2024-12-14 01:05:00
+4503447,True,False,True,Agentlik,340000,Şah İsmayıl Xətai m.,3,155.0,16,18,Bakı,2024-12-14 01:05:00
+2163371,True,False,False,Agentlik,272000,Nərimanov r.,3,128.0,15,17,Bakı,2024-12-14 01:05:00
+4253840,True,False,True,Agentlik,295000,Nərimanov r.,3,148.0,8,16,Bakı,2024-12-14 01:05:00
+4547024,True,False,True,Agentlik,295000,28 May m.,3,141.0,2,16,Bakı,2024-12-14 01:05:00
+3309723,True,False,False,Agentlik,305000,Nərimanov r.,4,175.0,7,16,Bakı,2024-12-14 01:05:00
+4648073,False,False,True,default,137000,Qara Qarayev m.,2,53.0,6,16,Bakı,2024-12-14 01:05:00
+4650512,True,True,True,Agentlik,131000,Həzi Aslanov m.,2,63.0,4,17,Bakı,2024-12-14 01:04:00
+4407866,True,True,True,Agentlik,138000,Həzi Aslanov m.,3,80.0,16,16,Bakı,2024-12-14 01:04:00
+4177685,True,True,True,Agentlik,106000,Hövsan q.,3,80.0,1,5,Bakı,2024-12-14 01:03:00
+4749444,True,True,True,Agentlik,89000,Hövsan q.,3,70.0,5,5,Bakı,2024-12-14 01:03:00
+4706440,True,False,True,Agentlik,66000,Hövsan q.,1,30.0,2,4,Bakı,2024-12-14 01:03:00
+4751532,True,False,True,Agentlik,320000,Binəqədi r.,3,143.0,10,16,Bakı,2024-12-14 01:02:00
+4381733,False,False,False,Agentlik,380000,Nəsimi r.,4,172.0,7,16,Bakı,2024-12-14 01:02:00
+3171678,True,False,True,Agentlik,290000,Şah İsmayıl Xətai m.,3,135.0,10,11,Bakı,2024-12-14 01:01:00
+4627159,False,False,True,Agentlik,340000,İnşaatçılar m.,4,155.0,11,19,Bakı,2024-12-14 01:01:00
+2208549,True,False,False,Agentlik,460000,Şah İsmayıl Xətai m.,4,187.0,10,16,Bakı,2024-12-14 01:01:00
+2393606,True,False,False,Agentlik,310000,Elmlər Akademiyası m.,3,133.0,9,16,Bakı,2024-12-14 01:01:00
+2629264,True,False,False,Agentlik,440000,Elmlər Akademiyası m.,4,180.0,4,16,Bakı,2024-12-14 01:00:00
+4836621,True,False,True,Agentlik,157000,8 Noyabr m.,2,65.0,3,9,Bakı,2024-12-14 00:59:00
+4365405,True,False,True,Agentlik,383000,28 May m.,4,200.0,8,16,Bakı,2024-12-14 00:59:00
+4836619,True,False,True,default,117000,7-ci mikrorayon q.,2,45.0,2,5,Bakı,2024-12-14 00:59:00
+4489265,True,False,True,Agentlik,299000,8 Noyabr m.,3,140.0,6,16,Bakı,2024-12-14 00:59:00
+4402759,True,False,True,Agentlik,348000,Nəriman Nərimanov m.,4,170.0,12,17,Bakı,2024-12-14 00:59:00
+4297314,True,True,True,default,119800,Bakıxanov q.,2,82.0,13,19,Bakı,2024-12-14 00:57:00
+4836618,True,False,True,default,60000,Masazır q.,2,50.0,6,6,Bakı,2024-12-14 00:55:00
+4836617,True,True,True,Agentlik,140000,Yeni Yasamal q.,2,75.0,8,10,Bakı,2024-12-14 00:55:00
+4822058,True,False,True,default,145000,7-ci mikrorayon q.,2,53.0,10,10,Bakı,2024-12-14 00:52:00
+4836616,True,True,True,default,140000,Yeni Günəşli q.,3,70.0,4,10,Bakı,2024-12-14 00:51:00
+4828776,True,True,True,default,96500,Yeni Günəşli q.,2,43.0,14,16,Bakı,2024-12-14 00:48:00
+4689564,True,False,True,Agentlik,270000,Nəsimi r.,3,85.0,5,12,Bakı,2024-12-14 00:47:00
+4039177,True,True,False,Agentlik,320000,Nəsimi r.,4,160.0,8,10,Bakı,2024-12-14 00:47:00
+4836612,True,True,True,Agentlik,390000,28 May m.,3,130.0,14,16,Bakı,2024-12-14 00:47:00
+4811678,True,False,True,Agentlik,599900,Xətai r.,3,120.0,5,6,Bakı,2024-12-14 00:46:00
+4807525,True,True,True,default,225000,Şah İsmayıl Xətai m.,3,65.0,3,5,Bakı,2024-12-14 00:46:00
+4836611,False,False,False,default,114000,Xətai r.,3,114.0,13,13,Bakı,2024-12-14 00:45:00
+4836610,True,False,True,default,157000,Yasamal q.,2,65.0,3,9,Bakı,2024-12-14 00:59:00
+4369136,True,True,False,Agentlik,496900,Ağ şəhər q.,3,103.0,3,5,Bakı,2024-12-14 00:44:00
+4806337,True,True,True,Agentlik,222900,İnşaatçılar m.,3,87.0,6,18,Bakı,2024-12-14 00:44:00
+4804919,True,True,True,Agentlik,90000,Həzi Aslanov m.,2,47.0,8,9,Bakı,2024-12-14 00:44:00
+4806263,True,True,True,Agentlik,228900,İnşaatçılar m.,3,113.0,6,16,Bakı,2024-12-14 00:44:00
+4817268,True,False,True,default,270000,Bayıl q.,3,90.0,3,5,Bakı,2024-12-14 00:43:00
+4823242,False,False,True,Agentlik,239900,20 Yanvar m.,3,150.0,21,23,Bakı,2024-12-14 00:43:00
+4823653,True,True,True,Agentlik,214900,20 Yanvar m.,2,80.0,15,16,Bakı,2024-12-14 00:43:00
+4836605,True,False,True,default,129000,Memar Əcəmi m.,2,58.0,4,5,Bakı,2024-12-14 00:42:00
+4774956,True,True,True,default,280000,Memar Əcəmi m.,3,160.0,5,11,Bakı,2024-12-14 00:38:00
+4806273,True,True,True,Agentlik,164900,İnşaatçılar m.,2,86.0,17,18,Bakı,2024-12-14 00:38:00
+4806358,True,True,True,Agentlik,209900,İnşaatçılar m.,3,110.0,9,20,Bakı,2024-12-14 00:37:00
+4792323,True,False,True,Agentlik,101500,7-ci mikrorayon q.,1,35.0,2,5,Bakı,2024-12-14 00:36:00
+4833938,True,False,True,Agentlik,699000,Nardaran q.,3,133.0,1,4,Bakı,2024-12-14 00:35:00
+4812429,True,True,True,default,980000,28 May m.,6,370.0,16,22,Bakı,2024-12-14 00:32:00
+4763096,False,False,True,Agentlik,145000,Avtovağzal m.,2,84.0,11,16,Bakı,2024-12-14 00:31:00
+4361604,True,False,True,default,163000,İnşaatçılar m.,2,84.0,17,18,Bakı,2024-12-14 00:30:00
+4797662,True,True,True,default,197000,Yeni Yasamal q.,4,109.0,4,10,Bakı,2024-12-14 00:29:00
+4777693,False,False,True,default,290000,Azadlıq Prospekti m.,4,190.0,9,9,Bakı,2024-12-14 00:28:00
+4806309,False,False,True,default,200000,Həzi Aslanov m.,3,100.0,6,16,Bakı,2024-12-14 00:27:00
+4799194,True,True,True,default,139000,Həzi Aslanov m.,2,68.0,13,16,Bakı,2024-12-14 00:27:00
+4799141,True,True,True,default,195000,Həzi Aslanov m.,3,90.0,13,16,Bakı,2024-12-14 00:26:00
+4777759,True,False,False,default,290000,Qara Qarayev m.,3,125.0,9,16,Bakı,2024-12-14 00:26:00
+4800680,True,True,False,default,465000,Elmlər Akademiyası m.,4,185.0,12,18,Bakı,2024-12-14 00:25:00
+4834045,True,True,True,Agentlik,250000,28 May m.,2,74.0,6,16,Bakı,2024-12-14 00:25:00
+4819830,True,False,True,default,364000,Bakmil m.,3,110.0,11,14,Bakı,2024-12-14 00:25:00
+3925062,False,False,True,Agentlik,417000,Nardaran q.,2,73.0,5,8,Bakı,2024-12-14 00:23:00
+4836599,True,False,True,Agentlik,344900,Nərimanov r.,3,135.0,14,19,Bakı,2024-12-14 00:30:00
+4809089,True,True,True,default,395000,20 Yanvar m.,4,170.0,7,18,Bakı,2024-12-14 00:21:00
+4806579,True,True,True,default,273000,Qara Qarayev m.,3,124.0,10,17,Bakı,2024-12-14 00:20:00
+4836595,True,True,True,Agentlik,158000,Memar Əcəmi m.,2,58.0,7,13,Bakı,2024-12-14 00:19:00
+4820956,True,False,True,Agentlik,290000,Həzi Aslanov m.,3,120.0,19,20,Bakı,2024-12-14 00:19:00
+4836594,True,True,True,default,385000,Azadlıq Prospekti m.,3,158.0,14,16,Bakı,2024-12-14 00:18:00
+4724216,True,False,True,default,210000,Elmlər Akademiyası m.,3,73.0,5,18,Bakı,2024-12-14 00:18:00
+4836593,True,True,True,default,250000,Badamdar q.,3,102.0,6,16,Bakı,2024-12-14 00:17:00
+4707501,True,True,True,default,135000,Həzi Aslanov m.,2,60.0,8,9,Bakı,2024-12-14 00:17:00
+4687209,True,False,True,default,136000,Azadlıq Prospekti m.,2,42.0,3,19,Bakı,2024-12-14 00:16:00
+4836589,False,False,False,default,380000,28 May m.,4,200.0,16,21,Bakı,2024-12-14 00:13:00
+4700926,True,False,True,default,270000,Xalqlar Dostluğu m.,3,112.0,2,12,Bakı,2024-12-14 00:12:00
+4821872,True,True,True,default,145000,Xalqlar Dostluğu m.,3,85.0,5,9,Bakı,2024-12-14 00:11:00
+4831296,True,True,True,default,135000,Əhmədli m.,2,58.0,6,9,Bakı,2024-12-14 00:11:00
+4821754,True,True,True,default,180000,Bakıxanov q.,5,120.0,3,9,Bakı,2024-12-14 00:10:00
+4768540,True,False,True,default,254000,Nəriman Nərimanov m.,4,110.0,6,9,Bakı,2024-12-14 00:08:00
+4001146,True,False,True,default,550000,28 May m.,4,185.0,2,3,Bakı,2024-12-14 00:08:00
+4823845,True,False,True,default,152000,Azadlıq Prospekti m.,2,45.0,5,9,Bakı,2024-12-14 00:07:00
+4759200,True,False,False,default,520000,Ağ şəhər q.,3,109.0,5,7,Bakı,2024-12-14 00:07:00
+4713318,True,False,True,default,195000,Azadlıq Prospekti m.,3,82.0,5,9,Bakı,2024-12-14 00:06:00
+4829436,True,True,True,Agentlik,163000,İnşaatçılar m.,3,90.0,6,9,Bakı,2024-12-14 00:06:00
+4836586,True,False,True,default,308000,Qara Qarayev m.,4,130.0,2,17,Bakı,2024-12-14 00:15:00
+4614504,True,False,True,default,260000,Həzi Aslanov m.,3,133.0,9,16,Bakı,2024-12-14 00:05:00
+4795114,False,False,True,default,355000,28 May m.,3,108.0,10,15,Bakı,2024-12-14 00:19:00
+4828732,True,False,True,default,225000,Nəriman Nərimanov m.,2,46.0,9,16,Bakı,2024-12-14 00:05:00
+4714571,True,False,True,default,690000,Nəsimi r.,4,205.0,13,19,Bakı,2024-12-14 00:03:00
+4638710,True,False,True,Agentlik,330000,Nəriman Nərimanov m.,3,105.0,10,16,Bakı,2024-12-14 00:01:00
+4829729,False,False,False,default,275000,Şah İsmayıl Xətai m.,3,156.0,23,24,Bakı,2024-12-14 00:00:00
+4836581,True,False,True,default,130000,Azadlıq Prospekti m.,2,50.0,2,17,Bakı,2024-12-14 23:59:00
+4836580,True,False,True,default,70000,Masazır q.,2,54.0,5,6,Bakı,2024-12-14 23:59:00
+4800064,True,False,True,default,270000,Nəriman Nərimanov m.,4,154.0,5,18,Bakı,2024-12-14 23:59:00
+3510376,True,False,True,default,75000,Masazır q.,3,83.0,5,5,Bakı,2024-12-14 23:59:00
+4800060,True,False,True,default,379000,Gənclik m.,3,140.0,14,16,Bakı,2024-12-14 23:58:00
+4836577,True,False,True,default,174000,Memar Əcəmi m.,2,57.0,13,18,Bakı,2024-12-14 23:58:00
+4746104,True,False,True,Agentlik,225000,Həzi Aslanov m.,3,130.0,19,19,Bakı,2024-12-14 23:58:00
+4800062,False,False,True,default,199000,Nəriman Nərimanov m.,2,55.0,4,15,Bakı,2024-12-14 23:58:00
+4802502,False,False,True,default,175000,Nəriman Nərimanov m.,2,55.0,9,15,Bakı,2024-12-14 23:57:00
+4587740,True,False,True,Agentlik,299000,Xətai r.,4,140.0,4,18,Bakı,2024-12-14 23:57:00
+4800061,True,False,True,default,218000,Nəriman Nərimanov m.,2,68.0,14,14,Bakı,2024-12-14 23:57:00
+4782944,True,True,False,Agentlik,88000,Hövsan q.,2,50.0,6,9,Bakı,2024-12-14 23:56:00
+4821898,True,True,True,Agentlik,93000,Hövsan q.,2,50.0,7,9,Bakı,2024-12-14 23:56:00
+4709671,True,True,True,Agentlik,90000,Hövsan q.,3,80.0,7,7,Bakı,2024-12-14 23:55:00
+4836574,True,True,False,Agentlik,218000,Nəriman Nərimanov m.,2,95.0,3,18,Bakı,2024-12-14 23:55:00
+4836573,False,False,True,default,325000,Nəsimi r.,3,110.0,11,16,Bakı,2024-12-14 23:55:00
+4831033,True,False,True,Agentlik,98500,20 Yanvar m.,1,33.0,3,5,Bakı,2024-12-14 23:53:00
+4501032,True,True,True,default,240000,Nəriman Nərimanov m.,3,90.0,9,19,Bakı,2024-12-14 23:53:00
+4831083,True,False,True,Agentlik,128000,Memar Əcəmi m.,2,50.0,2,5,Bakı,2024-12-14 23:52:00
+4831023,True,False,True,Agentlik,101500,Memar Əcəmi m.,1,33.0,4,5,Bakı,2024-12-14 23:52:00
+4787910,True,False,True,Agentlik,102000,Memar Əcəmi m.,1,34.0,4,5,Bakı,2024-12-14 23:52:00
+4488791,True,True,True,default,325000,Elmlər Akademiyası m.,3,131.0,13,18,Bakı,2024-12-14 23:50:00
+4836567,True,False,True,default,160000,Neftçilər m.,3,85.0,9,9,Bakı,2024-12-14 23:48:00
+4820068,True,True,True,default,220000,Nəsimi r.,3,80.0,1,5,Bakı,2024-12-14 23:48:00
+3896250,True,False,True,default,340000,Nəriman Nərimanov m.,5,200.0,14,15,Bakı,2024-12-14 23:48:00
+4831439,True,True,True,Agentlik,230000,İnşaatçılar m.,3,98.0,5,16,Bakı,2024-12-14 23:46:00
+4777529,False,False,False,Agentlik,106000,Biləcəri q.,2,70.0,4,16,Bakı,2024-12-14 23:46:00
+4822002,True,False,True,default,387000,Nərimanov r.,3,130.0,6,17,Bakı,2024-12-14 23:43:00
+4460085,True,False,True,Agentlik,314900,Sabunçu r.,3,133.0,11,20,Bakı,2024-12-14 23:42:00
+4836563,False,False,True,default,455000,Nəriman Nərimanov m.,3,120.0,16,17,Bakı,2024-12-14 23:47:00
+4836562,True,True,True,default,335000,Nərimanov r.,3,150.0,5,14,Bakı,2024-12-14 23:39:00
+4531219,True,True,True,Agentlik,325000,Elmlər Akademiyası m.,3,145.0,14,18,Bakı,2024-12-14 23:38:00
+4831096,True,True,True,default,172000,İnşaatçılar m.,2,74.0,12,20,Bakı,2024-12-14 23:47:00
+4780061,True,False,True,Agentlik,380000,Qara Qarayev m.,3,140.0,14,16,Bakı,2024-12-14 23:37:00
+4819788,True,False,True,default,950000,Elmlər Akademiyası m.,7,350.0,15,20,Bakı,2024-12-14 23:36:00
+4802852,True,False,True,Agentlik,326000,Qara Qarayev m.,3,137.0,14,14,Bakı,2024-12-14 23:35:00
+4836557,True,False,True,default,110000,Nərimanov r.,2,45.0,4,5,Bakı,2024-12-14 23:35:00
+4826682,True,False,True,Agentlik,235000,Qara Qarayev m.,3,95.0,13,14,Bakı,2024-12-14 23:31:00
+4780240,True,True,True,default,199000,Bakıxanov q.,4,160.0,11,14,Bakı,2024-12-14 23:31:00
+4836556,True,True,True,Agentlik,360000,Nəriman Nərimanov m.,3,90.0,16,17,Bakı,2024-12-14 23:31:00
+4457954,True,False,True,default,170000,28 May m.,3,68.0,2,4,Bakı,2024-12-14 23:30:00
+4698078,True,False,True,default,285000,Nəriman Nərimanov m.,3,135.0,2,19,Bakı,2024-12-14 23:30:00
+4833996,True,True,False,Agentlik,299000,Nəriman Nərimanov m.,4,190.0,15,16,Bakı,2024-12-14 23:30:00
+4652855,True,False,True,default,300000,20 Yanvar m.,4,127.0,9,18,Bakı,2024-12-14 23:29:00
+4755024,True,True,True,default,159900,Azadlıq Prospekti m.,2,61.0,10,14,Bakı,2024-12-14 23:29:00
+4417305,True,False,True,default,98000,Neftçilər m.,1,30.0,3,5,Bakı,2024-12-14 23:28:00
+4777744,True,True,True,Agentlik,233000,Nəriman Nərimanov m.,2,102.0,14,15,Bakı,2024-12-14 23:39:00
+4552384,True,True,False,Agentlik,335000,Nəriman Nərimanov m.,3,151.0,5,14,Bakı,2024-12-14 23:27:00
+4705497,False,False,True,default,272000,Neftçilər m.,3,119.0,8,18,Bakı,2024-12-14 23:27:00
+4826145,True,True,True,Agentlik,357000,Ağ şəhər q.,3,82.0,5,8,Bakı,2024-12-14 23:25:00
+4352066,False,False,False,Kompleks,372600,Ağ şəhər q.,2,81.0,4,20,Bakı,2024-12-14 23:24:00
+4351913,False,False,False,Kompleks,451200,Ağ şəhər q.,3,117.0,6,7,Bakı,2024-12-14 23:23:00
+4352079,False,False,False,Kompleks,535000,Ağ şəhər q.,3,135.0,10,20,Bakı,2024-12-14 23:22:00
+4240333,False,False,False,Kompleks,448600,Ağ şəhər q.,3,118.0,3,8,Bakı,2024-12-14 23:22:00
+4240467,False,False,False,Kompleks,500000,Şah İsmayıl Xətai m.,3,135.0,2,7,Bakı,2024-12-14 23:22:00
+4352182,False,False,False,Kompleks,524000,Ağ şəhər q.,3,136.0,3,8,Bakı,2024-12-14 23:21:00
+4733742,True,False,True,Agentlik,232000,Həzi Aslanov m.,3,117.0,11,16,Bakı,2024-12-14 23:56:00
+4824168,True,False,True,default,129000,Nəsimi r.,2,52.0,4,5,Bakı,2024-12-14 23:19:00
+4574657,True,False,True,Agentlik,160000,Neftçilər m.,3,71.0,13,19,Bakı,2024-12-14 23:18:00
+4758114,True,False,True,Agentlik,265000,Xalqlar Dostluğu m.,3,103.0,10,16,Bakı,2024-12-14 23:18:00
+4836546,False,False,True,default,480000,Gənclik m.,3,140.0,6,17,Bakı,2024-12-14 23:17:00
+4641464,False,False,True,default,555000,Ağ şəhər q.,3,140.0,4,7,Bakı,2024-12-14 23:16:00
+4836545,False,False,True,default,325000,Nərimanov r.,3,102.0,10,14,Bakı,2024-12-14 23:16:00
+4641399,True,False,True,default,685000,Ağ şəhər q.,4,160.0,2,6,Bakı,2024-12-14 23:16:00
+4768341,True,False,True,default,129000,Bakıxanov q.,2,55.0,2,5,Bakı,2024-12-14 23:16:00
+4836542,True,True,True,Agentlik,300000,Nizami m.,3,130.0,10,17,Bakı,2024-12-14 23:14:00
+4824964,True,True,True,Agentlik,222000,28 May m.,2,68.0,6,15,Bakı,2024-12-14 23:39:00
+4836541,False,False,True,default,249000,Nəriman Nərimanov m.,2,80.0,15,16,Bakı,2024-12-14 23:14:00
+4826101,True,True,True,Agentlik,228000,28 May m.,3,95.0,14,14,Bakı,2024-12-14 23:14:00
+4826050,True,True,True,Agentlik,330000,Sahil m.,6,220.0,4,5,Bakı,2024-12-14 23:39:00
+4836539,True,False,True,default,115000,Elmlər Akademiyası m.,2,35.0,2,5,Bakı,2024-12-14 23:13:00
+4406053,False,False,True,Agentlik,250000,Bayıl q.,3,110.0,4,6,Bakı,2024-12-14 23:11:00
+4836536,True,True,True,default,240000,İnşaatçılar m.,2,90.0,11,17,Bakı,2024-12-14 23:48:00
+4763126,True,True,True,default,163000,Biləcəri q.,3,90.0,3,9,Bakı,2024-12-14 23:11:00
+4836534,False,False,True,default,235000,28 May m.,2,71.0,9,18,Bakı,2024-12-14 23:10:00
+4836533,True,False,True,default,129000,Abşeron r.,4,130.0,14,16,Bakı,2024-12-14 23:09:00
+4776749,True,True,True,Agentlik,325000,Nizami m.,3,115.0,5,15,Bakı,2024-12-14 23:06:00
+4792563,False,False,True,default,239000,Nəsimi r.,2,65.0,14,18,Bakı,2024-12-14 23:04:00
+4836526,True,False,True,default,190000,Qara Qarayev m.,3,76.0,4,4,Bakı,2024-12-13 23:04:00
+4785563,True,True,True,Agentlik,145000,Həzi Aslanov m.,2,56.0,12,19,Bakı,2024-12-14 23:02:00
+4825276,True,False,True,default,106000,Əhmədli q.,2,60.0,1,9,Bakı,2024-12-14 23:00:00
+4640471,True,True,True,default,157000,Nəriman Nərimanov m.,2,57.0,5,5,Bakı,2024-12-14 22:59:00
+4836523,True,False,True,default,115000,Neftçilər m.,3,55.0,2,5,Bakı,2024-12-14 22:58:00
+4819907,False,False,True,default,85500,Masazır q.,3,82.0,6,7,Bakı,2024-12-14 22:57:00
+4836519,True,False,True,default,207000,20 Yanvar m.,5,120.0,3,9,Bakı,2024-12-14 22:56:00
+4765846,False,False,True,default,115000,Əhmədli m.,2,52.3,4,7,Bakı,2024-12-14 22:56:00
+4369020,False,False,True,Agentlik,450000,Nardaran q.,2,80.0,1,4,Bakı,2024-12-14 22:55:00
+4816242,True,False,True,default,57000,Masazır q.,2,42.0,5,6,Bakı,2024-12-14 22:55:00
+3220065,False,False,False,Agentlik,750000,Nardaran q.,4,180.0,2,3,Bakı,2024-12-14 22:54:00
+4698761,False,False,True,Agentlik,275000,Nardaran q.,1,52.0,2,2,Bakı,2024-12-14 22:54:00
+4558588,False,False,True,Agentlik,272000,Nardaran q.,1,46.0,4,5,Bakı,2024-12-14 22:53:00
+4321180,True,False,True,default,290000,8 Noyabr m.,2,98.0,4,27,Bakı,2024-12-14 22:52:00
+4799945,True,True,True,default,166000,Həzi Aslanov m.,3,91.0,18,20,Bakı,2024-12-14 22:52:00
+3824155,True,False,False,default,418684,Elmlər Akademiyası m.,2,110.2,7,18,Bakı,2024-12-14 22:48:00
+4727776,True,True,True,default,83000,Yeni Günəşli q.,2,51.0,8,10,Bakı,2024-12-14 22:49:00
+3824160,True,False,False,default,597854,Elmlər Akademiyası m.,4,157.3,10,18,Bakı,2024-12-14 22:47:00
+4635915,True,False,False,default,469870,Elmlər Akademiyası m.,3,123.6,14,18,Bakı,2024-12-14 22:41:00
+4836512,True,False,True,default,105000,Xalqlar Dostluğu m.,2,45.0,5,5,Bakı,2024-12-14 22:40:00
+4833958,True,False,True,default,155000,Yeni Günəşli q.,4,81.0,7,9,Bakı,2024-12-14 22:40:00
+3824150,True,False,False,default,469870,Elmlər Akademiyası m.,3,123.7,11,18,Bakı,2024-12-14 22:40:00
+4237623,True,False,False,default,543730,Elmlər Akademiyası m.,2,98.9,15,18,Bakı,2024-12-14 22:38:00
+4836511,True,True,True,Agentlik,264000,İnşaatçılar m.,3,125.5,6,17,Bakı,2024-12-14 22:38:00
+4623256,True,True,True,Agentlik,125000,Yasamal r.,2,45.0,7,12,Bakı,2024-12-14 22:38:00
+4190770,True,False,False,default,1128215,Elmlər Akademiyası m.,4,205.1,15,18,Bakı,2024-12-14 22:37:00
+4831223,True,False,False,default,120000,Xətai r.,2,80.5,6,15,Bakı,2024-12-14 22:37:00
+4190890,True,False,False,default,833195,Elmlər Akademiyası m.,4,151.5,15,18,Bakı,2024-12-14 22:37:00
+4836508,True,True,True,default,163000,İnşaatçılar m.,3,80.0,5,9,Bakı,2024-12-14 22:50:00
+4732828,True,True,True,default,298000,Bayıl q.,3,110.0,7,9,Bakı,2024-12-14 22:36:00
+4694618,True,True,True,default,327000,8 Noyabr m.,2,102.0,6,27,Bakı,2024-12-14 22:34:00
+4760504,True,True,True,default,105000,20 Yanvar m.,2,46.0,5,5,Bakı,2024-12-14 22:34:00
+4836509,False,False,True,default,155000,Bayıl q.,2,63.5,11,17,Bakı,2024-12-14 22:33:00
+4794991,True,False,True,default,285000,Gənclik m.,3,115.0,17,19,Bakı,2024-12-14 22:30:00
+4836507,True,True,True,default,139000,İnşaatçılar m.,2,56.0,9,12,Bakı,2024-12-14 22:28:00
+4326058,True,True,True,Agentlik,800000,Gənclik m.,4,217.0,4,12,Bakı,2024-12-14 22:29:00
+4789843,True,False,True,default,345000,28 May m.,3,100.0,11,16,Bakı,2024-12-14 22:28:00
+4179611,True,False,False,Kompleks,589950,Nəriman Nərimanov m.,4,207.0,11,19,Bakı,2024-12-14 22:28:00
+3891057,False,False,False,Kompleks,390450,Nərimanov r.,3,137.0,14,19,Bakı,2024-12-14 22:27:00
+4836500,True,False,True,default,125000,Lökbatan q.,3,78.0,2,4,Bakı,2024-12-14 22:27:00
+3891147,False,False,False,Kompleks,615000,Nərimanov r.,4,217.0,15,19,Bakı,2024-12-14 22:27:00
+4760051,True,False,True,Agentlik,92000,Masazır q.,2,63.0,6,14,Bakı,2024-12-14 22:27:00
+3998452,False,False,False,default,230000,Neftçilər m.,3,130.0,2,17,Bakı,2024-12-14 22:26:00
+4836506,False,False,True,default,245000,Əhmədli q.,3,93.0,8,16,Bakı,2024-12-14 22:26:00
+4836504,True,True,True,default,139000,Biləcəri q.,5,100.0,5,5,Bakı,2024-12-14 22:25:00
+4786601,True,False,True,Agentlik,117000,Memar Əcəmi m.,2,50.0,5,5,Bakı,2024-12-14 22:24:00
+4836501,False,False,False,default,112000,7-ci mikrorayon q.,1,58.0,8,16,Bakı,2024-12-14 23:10:00
+4326039,True,True,True,Agentlik,550000,Gənclik m.,4,145.0,8,12,Bakı,2024-12-14 22:24:00
+4312922,False,False,True,Agentlik,217500,8 Noyabr m.,2,106.0,3,16,Bakı,2024-12-14 22:23:00
+4658935,False,False,False,default,485000,Nəriman Nərimanov m.,4,217.0,7,17,Bakı,2024-12-14 22:23:00
+4706976,False,False,True,default,550000,Qara Qarayev m.,4,186.0,17,19,Bakı,2024-12-14 22:21:00
+4825899,True,True,True,Agentlik,235000,Qara Qarayev m.,3,102.0,6,16,Bakı,2024-12-14 22:20:00
+4836497,True,False,True,default,60000,Qara Qarayev m.,1,20.0,4,5,Bakı,2024-12-14 22:32:00
+4758826,True,True,True,default,136000,Həzi Aslanov q.,2,55.0,20,20,Bakı,2024-12-14 22:19:00
+4716511,False,False,True,default,360000,28 May m.,3,110.0,4,16,Bakı,2024-12-14 22:19:00
+3148782,True,False,False,Agentlik,375000,Nəsimi r.,3,150.0,7,16,Bakı,2024-12-14 22:19:00
+4794929,False,False,True,default,63500,Masazır q.,2,50.0,3,6,Bakı,2024-12-14 22:18:00
+3995948,True,False,True,Agentlik,270000,8 Noyabr m.,3,112.0,2,7,Bakı,2024-12-14 22:18:00
+4599716,True,True,True,default,265000,Nəsimi m.,3,135.0,14,21,Bakı,2024-12-14 22:18:00
+4034832,True,False,True,Agentlik,369000,Nərimanov r.,4,180.0,3,17,Bakı,2024-12-14 22:18:00
+4819718,False,False,True,default,258000,Xalqlar Dostluğu m.,3,100.0,10,17,Bakı,2024-12-14 22:17:00
+4318828,True,False,True,default,101500,Dərnəgül m.,1,35.0,2,5,Bakı,2024-12-14 22:16:00
+4833944,True,False,True,Agentlik,450000,Sahil m.,3,100.0,7,8,Bakı,2024-12-14 22:15:00
+4836487,True,False,True,default,185000,Nəriman Nərimanov m.,3,68.0,3,5,Bakı,2024-12-14 22:15:00
+4627202,False,False,False,Agentlik,504000,Ağ şəhər q.,3,140.0,4,8,Bakı,2024-12-14 22:15:00
+4607020,False,False,False,Agentlik,653000,Ağ şəhər q.,4,199.0,3,8,Bakı,2024-12-14 22:14:00
+4814159,True,False,True,default,243000,Elmlər Akademiyası m.,2,112.0,6,18,Bakı,2024-12-14 22:14:00
+4692445,True,True,True,Agentlik,92000,Xətai r.,2,42.0,1,8,Bakı,2024-12-14 22:14:00
+4836491,True,False,True,default,105000,Hövsan q.,3,80.0,7,7,Bakı,2024-12-14 22:13:00
+4833965,True,False,True,Agentlik,259000,Sahil m.,3,90.0,2,2,Bakı,2024-12-14 22:10:00
+4811656,True,False,True,Agentlik,449900,Sahil m.,3,100.0,5,6,Bakı,2024-12-14 22:26:00
+4606999,False,False,True,Agentlik,300000,Qara Qarayev m.,3,120.0,15,17,Bakı,2024-12-14 22:09:00
+4033099,True,False,True,Agentlik,485000,28 May m.,3,125.0,3,4,Bakı,2024-12-14 22:08:00
+4793451,False,False,True,Agentlik,260000,Qara Qarayev m.,3,93.0,3,15,Bakı,2024-12-14 22:08:00
+4704998,False,False,True,default,270000,Elmlər Akademiyası m.,3,80.0,3,12,Bakı,2024-12-14 22:07:00
+3938295,False,False,True,Agentlik,260000,Nərimanov r.,4,105.0,8,16,Bakı,2024-12-14 22:07:00
+4086483,False,False,False,Agentlik,824000,Şah İsmayıl Xətai m.,5,266.0,3,7,Bakı,2024-12-14 22:07:00
+4776596,True,False,True,Agentlik,225000,Qara Qarayev m.,2,85.0,3,17,Bakı,2024-12-14 22:07:00
+4615794,True,False,True,Agentlik,152000,Memar Əcəmi m.,3,100.0,1,5,Bakı,2024-12-14 22:07:00
+4723605,True,True,True,Agentlik,530000,Şah İsmayıl Xətai m.,4,165.0,20,21,Bakı,2024-12-14 22:07:00
+4733139,False,False,False,default,157000,Nərimanov r.,1,73.6,7,17,Bakı,2024-12-14 22:07:00
+4302854,False,False,True,Agentlik,240000,20 Yanvar m.,3,105.0,10,14,Bakı,2024-12-14 22:07:00
+4681008,True,False,True,Agentlik,210000,Gənclik m.,3,90.0,2,5,Bakı,2024-12-14 22:06:00
+4678383,True,True,True,Agentlik,327000,Nəriman Nərimanov m.,3,160.0,8,12,Bakı,2024-12-14 22:06:00
+4219985,True,True,True,Agentlik,115000,Yasamal r.,1,40.0,8,12,Bakı,2024-12-14 22:06:00
+4760329,True,True,True,Agentlik,137000,7-ci mikrorayon q.,2,50.0,15,17,Bakı,2024-12-14 22:06:00
+4762822,False,False,True,Agentlik,264000,Azadlıq Prospekti m.,3,110.0,12,19,Bakı,2024-12-14 22:06:00
+4753601,True,False,True,default,79000,Masazır q.,3,70.0,3,6,Bakı,2024-12-14 22:06:00
+4836486,True,False,True,default,68500,Masazır q.,2,40.0,7,7,Bakı,2024-12-14 22:05:00
+4833932,True,False,True,Agentlik,625000,28 May m.,3,135.0,11,22,Bakı,2024-12-14 22:05:00
+4819826,False,False,False,Agentlik,399900,İçəri Şəhər m.,3,142.0,5,12,Bakı,2024-12-14 22:05:00
+4762600,True,True,False,Agentlik,262500,8 Noyabr m.,3,105.0,9,12,Bakı,2024-12-14 22:05:00
+4764124,False,False,False,default,155000,28 May m.,2,57.8,16,16,Bakı,2024-12-14 22:04:00
+4819753,True,False,True,default,142000,İnşaatçılar m.,2,65.0,4,9,Bakı,2024-12-14 22:04:00
+4836484,True,False,True,default,125000,Biləcəri q.,3,70.0,5,5,Bakı,2024-12-14 22:14:00
+4435671,False,False,False,default,230000,Elmlər Akademiyası m.,3,130.0,6,16,Bakı,2024-12-14 22:03:00
+4831177,True,False,True,default,93000,Memar Əcəmi m.,1,35.0,4,5,Bakı,2024-12-14 22:02:00
+4819545,True,True,True,default,220000,Nəriman Nərimanov m.,2,67.3,10,21,Bakı,2024-12-14 22:02:00
+4738965,False,True,False,Kompleks,694080,Nizami m.,4,241.0,3,16,Bakı,2024-12-14 22:02:00
+4737494,False,True,False,Kompleks,782320,Nizami m.,5,254.0,14,16,Bakı,2024-12-14 22:02:00
+4707491,True,True,True,default,165000,Azadlıq Prospekti m.,2,60.0,16,17,Bakı,2024-12-14 22:02:00
+4735337,False,True,False,Kompleks,1535580,Nizami m.,8,449.0,15,16,Bakı,2024-12-14 22:01:00
+4836483,True,True,True,default,58500,Abşeron r.,2,36.0,8,11,Bakı,2024-12-14 22:01:00
+4690404,False,True,False,Kompleks,516600,Nizami m.,3,164.0,16,16,Bakı,2024-12-14 22:01:00
+4836482,True,False,True,default,400000,28 May m.,3,121.0,6,18,Bakı,2024-12-14 22:01:00
+4735338,False,True,False,Kompleks,1309630,Nizami m.,5,371.0,15,16,Bakı,2024-12-14 22:01:00
+4738839,True,False,True,default,87000,Köhnə Günəşli q.,2,35.0,9,9,Bakı,2024-12-14 22:01:00
+4735339,False,True,False,Kompleks,1258560,Nizami m.,5,368.0,15,16,Bakı,2024-12-14 22:01:00
+4737499,False,True,False,Kompleks,1045280,Nizami m.,5,278.0,15,16,Bakı,2024-12-14 22:00:00
+4744383,False,True,False,Kompleks,493890,Nizami m.,3,163.0,10,16,Bakı,2024-12-14 22:00:00
+4690396,False,True,False,Kompleks,352170,Nizami m.,2,117.0,4,16,Bakı,2024-12-14 22:00:00
+4791865,True,False,True,default,102000,Memar Əcəmi m.,2,50.0,5,5,Bakı,2024-12-14 21:59:00
+4744387,False,True,False,Kompleks,359190,Nizami m.,2,117.0,9,16,Bakı,2024-12-14 21:59:00
+4744384,False,True,False,Kompleks,487370,Nizami m.,3,163.0,6,16,Bakı,2024-12-14 21:59:00
+4744382,False,True,False,Kompleks,502040,Nizami m.,3,163.0,14,16,Bakı,2024-12-14 21:59:00
+4738972,False,True,False,Kompleks,360360,Nizami m.,2,117.0,10,16,Bakı,2024-12-14 21:59:00
+4539515,False,False,False,Agentlik,375000,Şah İsmayıl Xətai m.,3,125.0,18,20,Bakı,2024-12-14 21:59:00
+4738969,False,True,False,Kompleks,679800,Nizami m.,4,220.0,10,16,Bakı,2024-12-14 21:59:00
+4762622,True,True,True,Agentlik,275000,8 Noyabr m.,3,85.0,5,12,Bakı,2024-12-14 21:59:00
+4515281,True,True,True,Agentlik,1450000,İçəri Şəhər m.,5,136.0,4,4,Bakı,2024-12-14 21:58:00
+4735325,False,True,False,Kompleks,228240,Nizami m.,1,72.0,13,16,Bakı,2024-12-14 21:58:00
+4738960,False,True,False,Kompleks,734160,Nizami m.,4,266.0,3,16,Bakı,2024-12-14 21:58:00
+4738958,False,True,False,Kompleks,717600,Nizami m.,4,276.0,3,16,Bakı,2024-12-14 21:58:00
+4690398,False,True,False,Kompleks,416480,Nizami m.,2,152.0,3,16,Bakı,2024-12-14 21:58:00
+4836478,True,False,True,default,142000,Elmlər Akademiyası m.,2,47.1,19,20,Bakı,2024-12-14 22:01:00
+4690403,False,True,False,Kompleks,1485000,Nizami m.,8,450.0,16,16,Bakı,2024-12-14 21:57:00
+4656470,True,True,True,Agentlik,335000,8 Noyabr m.,3,160.0,15,21,Bakı,2024-12-14 21:57:00
+4797145,True,True,True,Agentlik,430000,Nizami m.,3,174.0,9,22,Bakı,2024-12-14 21:57:00
+4423005,True,False,True,Agentlik,340000,8 Noyabr m.,3,150.0,8,16,Bakı,2024-12-14 21:56:00
+4672585,True,True,True,default,460000,Nəriman Nərimanov m.,3,198.0,15,16,Bakı,2024-12-14 21:56:00
+4765452,False,False,True,Agentlik,167000,28 May m.,2,62.0,10,11,Bakı,2024-12-14 21:56:00
+4431683,False,False,False,Agentlik,680000,Ağ şəhər q.,4,194.0,14,20,Bakı,2024-12-14 21:56:00
+4836475,False,False,True,Agentlik,359000,Nəsimi r.,3,125.0,8,18,Bakı,2024-12-14 22:26:00
+4800021,True,False,True,default,68000,Masazır q.,2,57.0,1,6,Bakı,2024-12-14 21:55:00
+4836474,True,False,True,default,120000,Biləcəri q.,3,60.0,2,5,Bakı,2024-12-14 21:55:00
+4828671,False,False,True,default,90000,Masazır q.,3,76.0,3,6,Bakı,2024-12-14 21:54:00
+4785486,True,True,True,default,295000,8-ci mikrorayon q.,3,103.0,15,17,Bakı,2024-12-14 21:54:00
+4836473,True,False,True,default,168000,Qara Qarayev m.,3,85.0,2,5,Bakı,2024-12-14 22:32:00
+4735859,False,False,False,default,213000,Qara Qarayev m.,3,92.0,6,14,Bakı,2024-12-14 21:53:00
+4809358,True,False,True,Agentlik,430000,Nizami m.,3,174.0,8,21,Bakı,2024-12-14 21:53:00
+4812496,True,True,True,Agentlik,2200000,Şah İsmayıl Xətai m.,5,500.0,7,28,Bakı,2024-12-14 21:52:00
+4815545,True,True,True,Agentlik,1400000,Nizami m.,7,750.0,22,23,Bakı,2024-12-14 21:52:00
+4836472,False,False,True,default,104700,Əhmədli q.,1,44.0,3,5,Bakı,2024-12-14 21:58:00
+4377000,True,False,True,Agentlik,400000,28 May m.,3,161.0,8,16,Bakı,2024-12-14 21:58:00
+4649161,True,False,True,Agentlik,585000,28 May m.,4,188.0,9,17,Bakı,2024-12-14 21:51:00
+4582700,True,True,True,default,999000,Nizami m.,5,330.0,10,14,Bakı,2024-12-14 21:51:00
+4816845,False,False,True,default,126000,Əhmədli q.,2,55.0,5,7,Bakı,2024-12-14 21:51:00
+4836468,True,True,True,Agentlik,346000,Nərimanov r.,3,117.0,10,16,Bakı,2024-12-14 21:50:00
+4787833,False,False,True,default,84500,Masazır q.,3,65.0,6,14,Bakı,2024-12-14 21:48:00
+4700709,True,True,True,default,175000,Nəsimi m.,2,64.0,5,17,Bakı,2024-12-14 21:48:00
+4533880,True,False,True,Agentlik,350000,28 May m.,3,110.0,9,17,Bakı,2024-12-14 21:58:00
+4779651,True,True,True,default,97000,Masazır q.,2,60.0,3,7,Bakı,2024-12-14 21:46:00
+4798008,True,False,True,Agentlik,260000,Qara Qarayev m.,3,110.0,4,17,Bakı,2024-12-14 21:50:00
+4836466,True,False,True,Agentlik,330000,Elmlər Akademiyası m.,2,101.3,2,16,Bakı,2024-12-14 21:46:00
+4816276,False,False,False,Agentlik,328000,Ağ şəhər q.,2,90.0,2,8,Bakı,2024-12-14 21:45:00
+4816662,False,False,False,Agentlik,351300,Ağ şəhər q.,2,98.0,7,8,Bakı,2024-12-14 21:45:00
+4352560,True,False,True,Agentlik,360000,Sahil m.,3,80.0,3,7,Bakı,2024-12-14 21:44:00
+4836463,True,True,True,Agentlik,350000,8 Noyabr m.,3,115.0,9,10,Bakı,2024-12-14 21:43:00
+4836461,True,False,True,Agentlik,345000,Nəsimi r.,3,135.0,14,18,Bakı,2024-12-14 21:43:00
+4824641,True,False,True,Agentlik,230000,İnşaatçılar m.,2,80.0,14,16,Bakı,2024-12-14 21:42:00
+4792938,True,False,True,Agentlik,215000,Xətai r.,3,100.0,3,6,Bakı,2024-12-14 21:42:00
+4833910,True,False,True,default,240000,Nizami m.,4,80.0,3,3,Bakı,2024-12-14 21:42:00
+4824286,True,False,True,Agentlik,350000,Qara Qarayev m.,3,125.0,10,18,Bakı,2024-12-14 21:42:00
+4675538,False,False,False,Agentlik,586460,Xətai r.,3,100.0,3,7,Bakı,2024-12-14 21:42:00
+4828735,False,False,True,Agentlik,376000,Ağ şəhər q.,2,68.0,3,6,Bakı,2024-12-14 21:42:00
+4646071,True,False,True,default,240000,Səbail r.,3,125.0,14,15,Bakı,2024-12-14 21:42:00
+4828380,False,False,True,Agentlik,350000,Ağ şəhər q.,2,50.0,4,7,Bakı,2024-12-14 21:41:00
+4811522,False,True,False,Agentlik,431200,Ağ şəhər q.,2,88.0,7,8,Bakı,2024-12-14 21:41:00
+4734579,False,False,False,Agentlik,310000,Ağ şəhər q.,2,60.0,4,7,Bakı,2024-12-14 21:41:00
+4793024,False,False,False,Agentlik,407000,Ağ şəhər q.,4,145.0,3,7,Bakı,2024-12-14 21:41:00
+4512003,True,False,True,Agentlik,285000,Nəsimi r.,3,96.0,3,16,Bakı,2024-12-14 21:41:00
+4741834,False,False,False,Agentlik,1200000,Ağ şəhər q.,6,245.0,2,6,Bakı,2024-12-14 21:41:00
+4803999,False,False,False,default,51300,Mehdiabad q.,3,57.0,4,5,Bakı,2024-12-14 21:41:00
+4782641,False,True,False,Agentlik,490000,Ağ şəhər q.,4,167.0,5,6,Bakı,2024-12-14 21:41:00
+4551314,True,True,True,Agentlik,385000,Nəriman Nərimanov m.,4,175.0,7,20,Bakı,2024-12-14 21:39:00
+4836459,True,True,True,Agentlik,220000,28 May m.,2,92.0,3,18,Bakı,2024-12-14 21:39:00
+4836454,True,False,True,Agentlik,225000,Neftçilər m.,4,125.0,16,17,Bakı,2024-12-14 21:37:00
+4831147,False,False,False,default,51000,Masazır q.,1,54.0,3,5,Bakı,2024-12-14 21:37:00
+4836453,True,False,True,default,63000,Masazır q.,2,44.0,5,6,Bakı,2024-12-14 21:37:00
+4810290,True,False,True,Agentlik,545000,Yasamal r.,3,147.0,19,27,Bakı,2024-12-14 21:36:00
+4433320,True,True,True,default,390000,Nəsimi r.,3,130.0,14,16,Bakı,2024-12-14 21:36:00
+4836450,True,True,True,Agentlik,299000,8 Noyabr m.,3,154.0,13,15,Bakı,2024-12-14 21:35:00
+4823506,True,True,True,default,80000,Əhmədli m.,3,72.0,1,5,Bakı,2024-12-14 21:34:00
+4623493,True,True,True,default,345000,Kubinka q.,3,101.0,12,16,Bakı,2024-12-14 21:34:00
+4836445,False,False,True,Agentlik,360000,7-ci mikrorayon q.,4,182.0,12,13,Bakı,2024-12-14 21:31:00
+4836443,True,True,False,Agentlik,330000,28 May m.,3,135.0,12,18,Bakı,2024-12-14 21:30:00
+4818051,False,False,True,Agentlik,123000,Əhmədli q.,2,71.0,2,7,Bakı,2024-12-14 21:39:00
+4820293,False,False,True,default,220000,Yasamal r.,3,123.0,15,22,Bakı,2024-12-14 21:28:00
+4762850,True,True,True,Agentlik,230000,Səbail r.,3,110.0,4,19,Bakı,2024-12-14 21:28:00
+4179740,False,False,False,Kompleks,196000,Nəriman Nərimanov m.,2,67.0,8,19,Bakı,2024-12-14 21:27:00
+4792286,False,False,False,default,640000,Ağ şəhər q.,3,145.0,3,7,Bakı,2024-12-14 21:27:00
+4126392,False,False,True,Kompleks,670000,Nərimanov r.,5,216.0,15,19,Bakı,2024-12-14 21:27:00
+3891023,False,False,False,Kompleks,300000,Nərimanov r.,3,105.0,8,19,Bakı,2024-12-14 21:26:00
+3891133,False,False,False,Kompleks,589950,Nərimanov r.,4,207.0,11,15,Bakı,2024-12-14 21:26:00
+4179699,False,False,False,Kompleks,390450,Nəriman Nərimanov m.,3,137.0,8,19,Bakı,2024-12-14 21:26:00
+4809918,True,False,True,Agentlik,115000,7-ci mikrorayon q.,2,55.0,4,5,Bakı,2024-12-14 21:26:00
+4808835,False,False,True,Agentlik,240000,Memar Əcəmi m.,3,105.0,11,14,Bakı,2024-12-14 21:26:00
+4836436,True,False,True,default,125000,M.Ə.Rəsulzadə q.,3,60.0,5,9,Bakı,2024-12-14 21:25:00
+4836437,True,True,True,default,225000,Avtovağzal m.,4,125.0,14,17,Bakı,2024-12-14 21:25:00
+4836435,True,False,True,default,123000,Lökbatan q.,4,84.0,1,5,Bakı,2024-12-14 21:24:00
+4762105,True,False,True,default,340000,Nərimanov r.,7,202.0,9,10,Bakı,2024-12-14 21:24:00
+4820948,True,True,True,Agentlik,450000,Elmlər Akademiyası m.,4,179.0,27,27,Bakı,2024-12-14 21:23:00
+4836432,True,True,True,default,95000,Bakıxanov q.,2,41.0,5,5,Bakı,2024-12-14 21:23:00
+4751571,True,False,True,Agentlik,399000,Nizami m.,4,167.0,11,18,Bakı,2024-12-14 21:22:00
+4800839,True,False,True,Agentlik,135000,Nizami m.,1,40.0,2,5,Bakı,2024-12-14 21:21:00
+4827521,True,True,True,Agentlik,439000,Şah İsmayıl Xətai m.,4,190.0,16,18,Bakı,2024-12-14 21:21:00
+4130292,True,True,True,Agentlik,345000,Nizami m.,3,145.0,16,18,Bakı,2024-12-14 21:21:00
+4828601,True,True,True,default,435000,Gənclik m.,3,145.0,12,18,Bakı,2024-12-14 21:21:00
+4760619,True,False,True,Agentlik,359000,Nərimanov r.,3,138.0,5,14,Bakı,2024-12-14 21:20:00
+4813633,True,False,True,default,390000,Nizami m.,3,105.0,1,4,Bakı,2024-12-14 21:20:00
+4783221,True,True,False,Agentlik,208000,Həzi Aslanov m.,3,105.0,10,21,Bakı,2024-12-14 21:20:00
+4771992,True,True,False,Agentlik,150000,Xətai r.,2,80.0,6,21,Bakı,2024-12-14 21:20:00
+4799150,True,True,True,Agentlik,202000,Nərimanov r.,2,62.0,8,14,Bakı,2024-12-14 21:19:00
+4823473,True,False,True,default,144000,7-ci mikrorayon q.,3,90.0,5,5,Bakı,2024-12-14 21:19:00
+4773020,True,True,True,default,76000,Masazır q.,2,60.0,5,6,Bakı,2024-12-14 21:17:00
+4814570,False,False,True,Agentlik,254900,Nərimanov r.,4,106.0,7,16,Bakı,2024-12-14 21:17:00
+4831017,True,False,True,Agentlik,136000,Memar Əcəmi m.,2,55.0,3,5,Bakı,2024-12-14 21:16:00
+4685057,True,True,True,default,368000,8-ci mikrorayon q.,3,152.0,14,17,Bakı,2024-12-14 21:16:00
+4823530,False,False,False,default,610000,Ağ şəhər q.,4,194.0,8,8,Bakı,2024-12-14 21:15:00
+4836427,True,False,True,default,180000,Həzi Aslanov q.,3,88.0,3,16,Bakı,2024-12-14 21:14:00
+4765664,True,True,True,default,112000,Bakıxanov q.,2,67.0,2,19,Bakı,2024-12-14 21:14:00
+4836426,True,True,True,Agentlik,243000,Gənclik m.,2,77.0,10,10,Bakı,2024-12-14 21:14:00
+4836425,False,False,True,default,104000,Əmircan q.,2,62.0,11,12,Bakı,2024-12-14 21:13:00
+4836423,False,False,True,default,180000,Memar Əcəmi m.,3,76.0,7,14,Bakı,2024-12-14 21:13:00
+4836420,True,False,True,Agentlik,50000,Sahil m.,1,15.0,2,2,Bakı,2024-12-14 21:11:00
+4622259,False,False,True,default,59000,Masazır q.,2,44.0,5,6,Bakı,2024-12-14 21:11:00
+4836415,True,True,True,default,146000,Əhmədli m.,2,64.0,3,9,Bakı,2024-12-14 21:11:00
+4766209,True,False,True,default,132000,Memar Əcəmi m.,2,50.0,4,5,Bakı,2024-12-14 21:09:00
+4818701,False,False,True,Agentlik,165000,20 Yanvar m.,2,70.0,13,18,Bakı,2024-12-14 21:07:00
+4769776,False,False,False,Agentlik,315000,Ağ şəhər q.,2,63.0,14,20,Bakı,2024-12-14 21:07:00
+4769890,True,True,True,Agentlik,299000,Şah İsmayıl Xətai m.,3,90.0,4,7,Bakı,2024-12-14 21:07:00
+4786675,True,False,True,default,280000,Bayıl q.,3,92.0,7,7,Bakı,2024-12-14 21:07:00
+4621700,False,False,False,Agentlik,644000,Ağ şəhər q.,4,150.0,5,7,Bakı,2024-12-14 21:06:00
+4661237,False,False,False,Agentlik,135300,Həzi Aslanov m.,2,82.0,6,13,Bakı,2024-12-14 21:06:00
+4568051,True,True,True,Agentlik,293000,Gənclik m.,3,109.0,8,16,Bakı,2024-12-14 21:05:00
+4825819,False,False,True,Agentlik,195000,Həzi Aslanov m.,3,102.0,15,17,Bakı,2024-12-14 21:05:00
+4818083,False,False,True,Agentlik,620000,Nəriman Nərimanov m.,4,182.0,16,18,Bakı,2024-12-14 21:02:00
+4830911,True,False,True,Agentlik,140000,Nərimanov r.,2,55.0,3,5,Bakı,2024-12-14 21:02:00
+4672911,False,False,False,Agentlik,265000,Nardaran q.,1,70.0,6,7,Bakı,2024-12-14 21:02:00
+4825895,True,True,True,Agentlik,450000,İnşaatçılar m.,4,178.0,27,27,Bakı,2024-12-14 21:02:00
+4444996,True,False,False,default,215000,Bayıl q.,2,77.0,5,19,Bakı,2024-12-14 21:02:00
+4006281,False,False,False,Agentlik,195000,Nardaran q.,1,53.0,6,7,Bakı,2024-12-14 21:01:00
+4797577,True,True,True,default,255000,20 Yanvar m.,3,110.0,14,17,Bakı,2024-12-14 21:01:00
+4742828,False,False,True,Agentlik,400000,Elmlər Akademiyası m.,3,135.0,8,20,Bakı,2024-12-14 21:01:00
+4095188,False,False,False,Agentlik,355000,Nardaran q.,2,107.0,2,7,Bakı,2024-12-14 21:01:00
+4047429,False,False,True,Agentlik,430000,Nardaran q.,2,84.0,3,8,Bakı,2024-12-14 21:01:00
+4831349,False,False,True,Agentlik,270000,Nəriman Nərimanov m.,3,105.0,14,17,Bakı,2024-12-14 21:00:00
+3048306,True,False,True,Agentlik,305000,Nəriman Nərimanov m.,3,131.0,12,14,Bakı,2024-12-14 21:00:00
+4785536,True,True,True,default,96400,Zabrat q.,2,73.0,6,10,Bakı,2024-12-14 21:00:00
+4833842,True,True,True,Agentlik,170000,Nəriman Nərimanov m.,2,75.0,16,17,Bakı,2024-12-14 21:00:00
+4171646,True,True,True,default,140000,Əhmədli m.,2,60.0,6,9,Bakı,2024-12-14 20:59:00
+4695490,True,False,True,default,569500,28 May m.,5,260.0,5,12,Bakı,2024-12-14 20:59:00
+4688996,True,False,True,Agentlik,149000,Yasamal r.,1,43.0,5,16,Bakı,2024-12-14 20:59:00
+4680267,True,False,True,default,539000,Nizami m.,3,155.0,8,12,Bakı,2024-12-14 20:58:00
+4679695,True,False,True,Agentlik,135000,20 Yanvar m.,2,50.0,4,5,Bakı,2024-12-14 20:58:00
+4470280,True,False,True,Agentlik,248000,Nəsimi r.,3,118.0,4,14,Bakı,2024-12-14 20:58:00
+4685944,True,False,True,Agentlik,242000,Nəsimi r.,3,92.0,9,13,Bakı,2024-12-14 20:58:00
+4713692,True,False,True,Agentlik,265000,20 Yanvar m.,4,140.0,7,24,Bakı,2024-12-14 20:58:00
+4778659,True,False,True,default,685000,Ağ şəhər q.,4,165.0,2,7,Bakı,2024-12-14 20:57:00
+4705939,False,False,True,Agentlik,330000,Elmlər Akademiyası m.,4,170.0,6,16,Bakı,2024-12-14 20:57:00
+4624119,True,False,True,default,480000,8 Noyabr m.,4,206.0,3,14,Bakı,2024-12-14 20:56:00
+4836408,True,True,True,default,205000,Yeni Yasamal q.,3,96.0,4,11,Bakı,2024-12-14 20:56:00
+4836407,True,True,True,Agentlik,160000,Yasamal r.,2,65.0,5,9,Bakı,2024-12-14 20:55:00
+4144482,True,False,True,Agentlik,330000,Nəsimi r.,3,161.0,7,16,Bakı,2024-12-14 20:56:00
+4780044,True,True,True,Agentlik,180000,Gənclik m.,2,70.0,12,17,Bakı,2024-12-14 20:54:00
+4061952,True,False,True,Agentlik,270000,Nəsimi r.,3,141.0,8,16,Bakı,2024-12-14 20:54:00
+4094284,True,False,True,Agentlik,400000,Nəriman Nərimanov m.,4,186.0,5,16,Bakı,2024-12-14 20:53:00
